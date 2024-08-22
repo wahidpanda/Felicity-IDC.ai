@@ -89,6 +89,20 @@ Felicity-IDC.ai/
 - `gTTS`: Text-to-speech conversion.
 - `seaborn`, `matplotlib`, `plotly`: Data visualization libraries.
 
+
+##Steps to Use the Dockerfile:
+1. Replace "your_app.py" with the actual name of your Streamlit Python script.
+2. Build the Docker Image: Navigate to your project directory where the Dockerfile is located and run:
+    ```sh
+    docker build -t streamlit-app .
+    ```
+3. Run the Docker Container: Once the image is built, you can run it using
+    ```sh
+    docker run -p 8501:8501 streamlit-app
+    ```
+
+This will start your Streamlit app in a Docker container, and you can access it by navigating to http://localhost:8501 in your web browser.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
