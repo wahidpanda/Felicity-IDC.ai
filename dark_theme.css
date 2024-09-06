@@ -1,0 +1,22 @@
+/* dark_theme.css */
+body {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+}
+.container {
+    background-color: #2e2e2e;
+}
+.container, .report {
+    color: #e0e0e0;
+}
+.report {
+    border: 1px solid #444;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #f0f0f0;
+}
+.table {
+    background-color: #333;
+    color: #e0e0e0;
+}
+/* Add more CSS rules as needed */
