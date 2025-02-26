@@ -2,7 +2,6 @@
 querry.ai is a web application for data analysis and management at Felicity Internet Data Center, utilizing AI, chatbots, custom dashboards, and advanced analytics tools.
 
 
-![image](https://github.com/user-attachments/assets/dad5cd1e-7b40-45c0-b90d-348f9fac1226)
 
 # querry.ai
 
