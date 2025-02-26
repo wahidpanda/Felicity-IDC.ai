@@ -1,16 +1,16 @@
-# Felicity-IDC.ai
-Felicity IDC.ai is a web application for data analysis and management at Felicity Internet Data Center, utilizing AI, chatbots, custom dashboards, and advanced analytics tools.
+# querry.ai
+querry.ai is a web application for data analysis and management at Felicity Internet Data Center, utilizing AI, chatbots, custom dashboards, and advanced analytics tools.
 
 
 ![image](https://github.com/user-attachments/assets/dad5cd1e-7b40-45c0-b90d-348f9fac1226)
 
-# Felicity IDC.ai
+# querry.ai
 
-Felicity IDC.ai is an advanced data analysis and interactive application for Felicity Internet Data Center (FIDC). It integrates various features including data analysis, chatbot interaction, custom dashboards, and advanced analytics.
+querry.ai is an advanced data analysis and interactive application for querry.ai It integrates various features including data analysis, chatbot interaction, custom dashboards, and advanced analytics.
 
 ## Project Structure
 
-Felicity-IDC.ai/
+querry.ai/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
@@ -47,7 +47,7 @@ Felicity-IDC.ai/
 - **Advanced Data Analysis**: Upload and analyze datasets with custom visualizations.
 - **Chat with Document**: Interact with PDF documents using Google's Gemini API.
 - **Custom Dashboard Creation**: Build and save dashboards based on your data analysis preferences.
-- **Chatbot Integration**: Query Felicity IDC's systems using an AI-powered chatbot.
+- **Chatbot Integration**: Query querry's systems using an AI-powered chatbot.
 - **Advanced Analytics**: Perform predictive modeling and advanced statistical analysis.
 
 ## Installation
