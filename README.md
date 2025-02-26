@@ -55,7 +55,7 @@ querry.ai/
 1. Clone the repository:
     ```sh
     git clone https://github.com/wahidpanda/Felicity-IDC.ai.git
-    cd Felicity-IDC.ai
+    cd querry.ai
     ```
 
 2. Create a virtual environment and activate it:
